@@ -3,8 +3,6 @@
 //Adam Cartwright
 //2/7/25
 //Chapter 3 -- Modern Budget Tracker
-
-
 //Github repo link https://github.com/awcartwright/Ch3
 
 #include <iostream>
